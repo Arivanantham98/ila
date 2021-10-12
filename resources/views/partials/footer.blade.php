@@ -8,12 +8,12 @@
                         <h3 class="widget-title">Contact Info</h3>
                         <p> We are always available for you to pass & get back on the right track.</p>
                         <ul class="widget_contact_wrapper">
-                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin"></i> Valsaravakkam,Chennai</li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-comment"></i>Tell Us The Reason For Your
-                                Query<br><a href="mailto:info@example.com">info@example.com</a></li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-timer"></i>Monday To Satarday : 8am -
+                            <li><i class="ttm-textcolor-skincolor ti ti-location-pin" style="color: rgb(230, 230, 230)!important"></i> Valsaravakkam,Chennai</li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-comment" style="color: rgb(230, 230, 230)!important"></i>Tell Us The Reason For Your
+                                Query<br><a href="mailto:info@example.com" style="color: rgb(230, 230, 230)!important">info@example.com</a></li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-timer" style="color: rgb(230, 230, 230)!important"></i>Monday To Satarday : 8am -
                                 6pm. <br>Sunday CLOSED</li>
-                            <li><i class="ttm-textcolor-skincolor ti ti-headphone"></i>+ 123 - 456 -7890</li>
+                            <li><i class="ttm-textcolor-skincolor ti ti-headphone" style="color: rgb(230, 230, 230)!important"></i>+ 123 - 456 -7890</li>
                         </ul>
                     </div>
                 </div>

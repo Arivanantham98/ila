@@ -31,13 +31,13 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg/1199px-Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg">
+                      <img src="{{ asset('images/aadhaar.jpg') }}">
                    </div>
                    <div class="title">
                    
                    </div>
                    <div class="des">
-                    <p>You can Add Desccription Here...</p>
+                    <p>Aadhaar Card Services</p>
                    
                    </div>
                    </div>
@@ -47,92 +47,13 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+                      <img src="{{ asset('images/pancard.jpg') }}">
                    </div>
                    <div class="title">
                    
                    </div>
                    <div class="des">
-                    <p>You can Add Desccription Here...</p>
-                   
-                   </div>
-                   </div>
-                   <!--cards -->
-                   
-                   
-                   <div class="card">
-                   
-                   <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2015/11/07/11/41/lake-1031405_1280.jpg">
-                   </div>
-                   <div class="title">
-                   
-                   </div>
-                   <div class="des">
-                    <p>You can Add Desccription Here...</p>
-                   
-                   </div>
-                   </div>
-                   <!--cards -->
-                   
-                   
-                   <div class="card">
-                   
-                   <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
-                   </div>
-                   <div class="title">
-                   
-                   </div>
-                   <div class="des">
-                    <p>You can Add Desccription Here...</p>
-                   
-                   </div>
-                   </div>
-                   <!--cards -->
-                   
-                   <div class="card">
-                   
-                   <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
-                   </div>
-                   <div class="title">
-                   
-                   </div>
-                   <div class="des">
-                    <p>You can Add Desccription Here...</p>
-                   
-                   </div>
-                   </div>
-                   <!--cards -->
-                   
-                   <div class="card">
-                   
-                   <div class="image">
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg/1199px-Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg">
-                   </div>
-                   <div class="title">
-                   
-                   </div>
-                   <div class="des">
-                    <p>You can Add Desccription Here...</p>
-                   
-                   
-                   </div>
-                   </div>
-                   <!--cards -->
-                   
-                   
-                   <div class="card">
-                   
-                   <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
-                   </div>
-                   <div class="title">
-                   
-                   </div>
-                   <div class="des">
-                    <p>You can Add Desccription Here...</p>
+                    <p>Pancard Services</p>
                    
                    </div>
                    </div>
@@ -148,7 +69,86 @@
                    
                    </div>
                    <div class="des">
-                    <p>You can Add Desccription Here...</p>
+                    <p>Birth & Death Certificate</p>
+                   
+                   </div>
+                   </div>
+                   <!--cards -->
+                   
+                   
+                   <div class="card">
+                   
+                   <div class="image">
+                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+                   </div>
+                   <div class="title">
+                   
+                   </div>
+                   <div class="des">
+                    <p>Will & Gift Writing</p>
+                   
+                   </div>
+                   </div>
+                   <!--cards -->
+                   
+                   <div class="card">
+                   
+                   <div class="image">
+                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+                   </div>
+                   <div class="title">
+                   
+                   </div>
+                   <div class="des">
+                    <p>Legal Notice</p>
+                   
+                   </div>
+                   </div>
+                   <!--cards -->
+                   
+                   <div class="card">
+                   
+                   <div class="image">
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg/1199px-Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg">
+                   </div>
+                   <div class="title">
+                   
+                   </div>
+                   <div class="des">
+                    <p>EC,Patta & Land Verification</p>
+                   
+                   
+                   </div>
+                   </div>
+                   <!--cards -->
+                   
+                   
+                   <div class="card">
+                   
+                   <div class="image">
+                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+                   </div>
+                   <div class="title">
+                   
+                   </div>
+                   <div class="des">
+                    <p>Educational Issues</p>
+                   
+                   </div>
+                   </div>
+                   <!--cards -->
+                   
+                   
+                   <div class="card">
+                   
+                   <div class="image">
+                      <img src="https://cdn.pixabay.com/photo/2015/11/07/11/41/lake-1031405_1280.jpg">
+                   </div>
+                   <div class="title">
+                   
+                   </div>
+                   <div class="des">
+                    <p>Affidavits</p>
                    
                    </div>
                    </div>

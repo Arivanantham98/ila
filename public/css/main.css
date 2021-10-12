@@ -874,9 +874,8 @@ a {
 .ttm-textcolor-skincolor h5,
 .ttm-textcolor-skincolor h6,
 .ttm-bgcolor-darkgrey a:hover,
-.ttm-icon_element-border.ttm-icon_element-color-skincolor,
 .ttm-btn-style-border.ttm-btn-color-skincolor,
-.ttm-icon_element-color-skincolor,
+
 a:hover,
 .ttm-bgcolor-darkgrey a:hover,
 .widget_info .widget_icon i,
@@ -900,7 +899,7 @@ a:hover,
     .featured-content
     .featured-title
     h5
-    a:hover,
+    a:hover,    
 .ttm-blog-single blockquote .blockquote-inner:after,
 .widget ul#menu-footer-quick-links li a:hover,
 .widget-Categories li:hover a,
@@ -909,7 +908,7 @@ a:hover,
 .comment-reply-link i,
 .ttm-icon_element-fill.ttm-icon_element-color-white,
 .contact-section .ttm-social-links-wrapper li a:hover {
-    color: #b14233;
+    color: #063554;
 }
 
 /** Skin-bg-color **/
@@ -964,7 +963,7 @@ a:hover,
 #totop.top-visible,
 .pagination-block .page-numbers.current,
 .pagination-block .page-numbers:hover {
-    background-color: #b14233;
+    background-color: #063554;
 }
 
 /** Skin-border-color **/
@@ -977,7 +976,7 @@ a:hover,
 .slick_slider.slick-dots-style1 .slick-dots li.slick-active button,
 .ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark:hover,
 .ttm-btn.ttm-btn-style-border.ttm-btn-color-skincolor:hover {
-    border-color: #b14233;
+    border-color: #063554;
 }
 .ttm-bgcolor-darkgrey .tooltip-top:before,
 .ttm-bgcolor-darkgrey .tooltip:before,
@@ -989,12 +988,12 @@ a:hover,
 .ttm-btn.ttm-btn-style-border.ttm-btn-color-skincolor:after,
 .site-navigation ul.menu li ul.submenu,
 .cat-links-wrapper .cat-links:before {
-    border-top-color: #b14233;
+    border-top-color: #063554;
 }
 .ttm-bgcolor-darkgrey .tooltip-bottom:before,
 .ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark:before,
 .ttm-btn.ttm-btn-style-border.ttm-btn-color-skincolor:before {
-    border-bottom-color: #b14233;
+    border-bottom-color: #063554;
 }
 
 /** 2.Darkgrey-color **/
@@ -2873,21 +2872,25 @@ section.error-404 .page-content p {
 
 .card {
     width: 20%;
+   
     display: inline-block;
-    box-shadow: 2px 2px 20px black;
+    box-shadow:1px 1px 12px black;
     border-radius: 5px;
     margin: 2%;
 }
 
 .image img {
     width: 100%;
+    height: 200px;
+    object-fit: cover;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
+    object-position: center;    
 }
 
 .title {
-    text-align: center;
-    padding: 10px;
+    /* text-align: center; */
+    /* padding: 10px; */
 }
 
 h1 {
@@ -2903,7 +2906,7 @@ h1 {
     border-bottom-left-radius: 5px;
 }
 .des p {
-    padding-bottom: 10px;
+    /* padding-bottom: 10px; */
 }
 button {
     margin-top: 40px;

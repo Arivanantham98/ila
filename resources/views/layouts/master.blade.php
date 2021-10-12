@@ -379,7 +379,7 @@
                     <div class="header-item-left">
                         {{-- <h1><a href="./index.html" class="brand">Store</a></h1> --}}
                         <a href="{{ url('/') }}"> <img src="{{ asset('./images/logo/ila-logo.png') }}"
-                                alt=""></a>
+                                alt="" width='50%'></a>
                     </div>
                     <!-- Section: Navbar Menu -->
                     <div class="header-item-center">
@@ -561,8 +561,8 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">Other Services <i class="ion ion-ios-arrow-down"></i></a>
                                     <div class="menu-subs menu-column-1">
-                                        <ul>
-                                            <li><a href="#">Other Services</a></li>
+                                        <ul style="list-style: none">
+                                            <li><a href="{{ route('otherservices') }}">Other Services</a></li>
                                             <li><a href="#">ILA Services</a></li>
                                             <li><a href="{{ route('legalforms') }}">Legal Forms</a></li>
                                             <li><a href="{{ route('paralegal.index') }}">Paralegal Services</a></li>
@@ -572,7 +572,7 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">About <i class="ion ion-ios-arrow-down"></i></a>
                                     <div class="menu-subs menu-column-1">
-                                        <ul>
+                                        <ul style="list-style: none"    >
                                             <li><a href="{{ url('/about') }}">About us</a></li>
                                             <li><a href="{{ url('/contact') }}">contact us</a></li>
                                             <li><a href="#">Privacy & Policy</a></>

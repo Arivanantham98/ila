@@ -422,9 +422,8 @@
                         <!-- section-title -->
                         <div class="section-title with-sep title-style-center_text">
                             <div class="title-header">
-                                <h5>CASES WE HANDLE</h5>
-                                <h2 class="title">We Are Here To Fight Against Any Violance With <strong
-                                        class="ttm-textcolor-skincolor"> Experience</strong></h2>
+                                <h5 style="color: rgb(230, 230, 230)!important">CASES WE HANDLE</h5>
+                                <h2 class="title">We Are Here To Fight Against Any Violance With Experience</h2>
                             </div>
                             <ul class="title-shape text-center">
                                 <li></li>
@@ -1322,9 +1321,8 @@
                         <!-- section-title -->
                         <div class="section-title with-sep title-style-center_text">
                             <div class="title-header">
-                                <h5>CLIENT TESTIMONIALS</h5>
-                                <h2 class="title">We Are Here To Fight Against Any Violance With <strong
-                                        class="ttm-textcolor-skincolor"> Experience</strong></h2>
+                                <h5 style="color: rgb(230, 230, 230)!important">CLIENT TESTIMONIALS</h5>
+                                <h2 class="title">We Are Here To Fight Against Any Violance With Experience</h2>
                             </div>
                             <ul class="title-shape text-center">
                                 <li></li>

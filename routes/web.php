@@ -13,6 +13,7 @@ use App\Http\Controllers\Frontend\CivilLaw;
 use App\Http\Controllers\Frontend\Paralegal;
 use App\Http\Controllers\Frontend\Documentation;
 use App\Http\Controllers\Frontend\LegalNotice;
+use App\Http\Controllers\Frontend\OtherServices;
 use App\Http\Controllers\FirebaseController;
 
 
@@ -142,3 +143,6 @@ Route::get('legal-forms',function(){
 
 Route::get('/paralegal-services', [Paralegal::class,'index'])->name('paralegal.index');
 Route::get('firebase-phone-authentication', [FirebaseController::class, 'index']);
+
+
+Route::get('other-services',[OtherServices::class,'index'])->name('otherservices');
