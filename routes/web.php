@@ -83,7 +83,7 @@ Route::prefix('croporate-law')->group(function(){
     Route::get('customcentralexcercise',[CorporateLaw::class,'customcentralexcercise'])->name('croporatelaw.customcentralexcercise');
     Route::get('gst',[CorporateLaw::class,'gst'])->name('croporatelaw.gst');
     Route::get('startup',[CorporateLaw::class,'startup'])->name('croporatelaw.startup');
-    Route::get('tax',[CorporateLaw::class,'tax'])->name('croporatelaw.tax');
+    Route::get('employee-insurance',[CorporateLaw::class,'employeeinsurance'])->name('croporatelaw.employeeinsurance');
     Route::get('tradecopyrights',[CorporateLaw::class,'tradecopyrights'])->name('croporatelaw.tradecopyrights');
 });
 Route::prefix('criminal-property')->group(function(){

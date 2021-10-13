@@ -8,13 +8,13 @@
                 <div class="row align-items-center">
                     <div class="col-md-12">
                         <div class="page-title-heading">
-                            <h2 class="title">Tax</h2>
+                            <h2 class="title">Employee Insurance</h2>
                         </div>
                         <div class="breadcrumb-wrapper">
                             <span>
                                 <a title="Homepage" href="index.html">Home</a>
                             </span>
-                            <span>Tax</span>
+                            <span>Employee Insurance</span>
                         </div>
                     </div>
                 </div>

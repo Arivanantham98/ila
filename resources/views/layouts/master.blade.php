@@ -386,10 +386,10 @@
                         <div class="overlay"></div>
                         <nav class="menu">
                             <div class="menu-mobile-header">
-                                <button type="button" class="menu-mobile-arrow"><i
+                                <button style="border: 0px;border-radius: 0px;padding-top:0;padding-bottom:0;" type="button" class="menu-mobile-arrow"><i
                                         class="ion ion-ios-arrow-back"></i></button>
                                 <div class="menu-mobile-title"></div>
-                                <button type="button" class="menu-mobile-close"><i
+                                <button style="border: 0px;border-radius: 0px;padding-top:0;padding-bottom:0;" type="button" class="menu-mobile-close"><i
                                         class="ion ion-ios-close"></i></button>
                             </div>
                             <ul class="menu-section">
@@ -460,7 +460,7 @@
                                                 <li><a href="{{ route('croporatelaw.bankingfinance') }}">Banking/Finance</a></li>
                                                 <li><a href="{{ route('croporatelaw.gst') }}">GST</a></li>
                                                 <li><a href="{{ route('croporatelaw.croporate') }}">Corporate</a></li>
-                                                <li><a href="{{ route('croporatelaw.tax') }}">Tax</a></li>
+                                                <li><a href="{{ route('croporatelaw.employeeinsurance') }}">Employee Insurance</a></li>
                                             </ul>
                                         </div>
 
@@ -586,7 +586,9 @@
                     </div>
 
                     <div class="header-item-right">
-                        <button class="tp-caption ttm-btn ttm-btn-style-fill ttm-btn-color-skincolor">Book an
+                        <button style="margin-right:10px;font-size:1rem;font-weight:400" class="tp-caption ttm-btn ttm-btn-style-fill ttm-btn-color-skincolor">Join Us</button>
+                        
+                        <button style="font-size:1rem;font-weight:400;"  class="tp-caption ttm-btn ttm-btn-style-fill ttm-btn-color-skincolor">Book an
                             appointment</button>
 
                         <button type="button" class="menu-mobile-trigger">

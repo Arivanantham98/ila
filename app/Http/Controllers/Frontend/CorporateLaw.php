@@ -31,9 +31,9 @@ class CorporateLaw extends Controller
     {
         return view('categories.corporatelaw.startup');
     }
-    public function tax()
+    public function employeeinsurance()
     {
-        return view('categories.corporatelaw.tax');
+        return view('categories.corporatelaw.employeeinsurance');
     }
     public function tradecopyrights()
     {

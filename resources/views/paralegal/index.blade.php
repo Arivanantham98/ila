@@ -31,7 +31,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="{{ asset('images/aadhaar.jpg') }}">
+                      <img src="{{ asset('images/aadhaar.png') }}">
                    </div>
                    <div class="title">
                    
@@ -47,7 +47,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="{{ asset('images/pancard.jpg') }}">
+                      <img src="{{ asset('images/pancard.png') }}">
                    </div>
                    <div class="title">
                    
@@ -63,7 +63,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2015/11/07/11/41/lake-1031405_1280.jpg">
+                      <img src="{{ asset('images/birth.png') }}">
                    </div>
                    <div class="title">
                    
@@ -79,7 +79,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+                      <img src="{{ asset('images/willgifting.png') }}">
                    </div>
                    <div class="title">
                    
@@ -94,7 +94,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+                      <img src="{{ asset('images/legalnotice.png') }}">
                    </div>
                    <div class="title">
                    
@@ -109,7 +109,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg/1199px-Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg">
+                      <img src="{{ asset('images/ecpatta.png') }}">
                    </div>
                    <div class="title">
                    
@@ -126,7 +126,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+                      <img src="{{ asset('images/educational.png') }}">
                    </div>
                    <div class="title">
                    
@@ -142,7 +142,7 @@
                    <div class="card">
                    
                    <div class="image">
-                      <img src="https://cdn.pixabay.com/photo/2015/11/07/11/41/lake-1031405_1280.jpg">
+                      <img src="{{ asset('images/affidavit.png') }}">
                    </div>
                    <div class="title">
                    
